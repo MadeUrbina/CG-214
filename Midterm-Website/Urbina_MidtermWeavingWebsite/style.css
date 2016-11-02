@@ -1,0 +1,100 @@
+/*My External CSS*/
+
+/*The Weaving Journey tittle*/
+h1{
+    color: purple;
+    font-family: serif;
+    background-color: cornsilk;
+    margin: 0px;
+    padding: 15px;
+}
+
+body{
+    background-color: white;
+}
+
+/*Header Tab*/
+nav{
+	position: absolute;
+    background-color: lightgray;
+    padding: 0px;
+    margin: 0px;   
+	width: 100%;
+}
+
+li{
+    display: inline;
+    margin-right: 20px;
+	margin-left: 20px;
+}
+
+ul{
+   
+}
+
+a{
+	color: darkslategray;
+	padding: 20px; 
+    margin: 20px;
+    text-decoration: none;
+	font-weight: bold;
+    width: 100%;
+}
+
+div{
+    
+	
+}
+
+#header{
+    position: fixed;
+    background-color: cornsilk;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+#container{
+    width: 100%;
+    margin: auto;
+    top: 50px;
+}
+
+#info{
+    width: 950px;
+    margin: auto;
+	padding: 90px;
+}
+
+#one{
+	font-size: 18px;
+}
+
+p{
+    font-family: timesnewroman;
+    position: relative;
+    top: 50px;
+    z-index: -10;
+	padding: 5px;
+}
+
+
+images{ 
+    bordercolor: lightgray;
+}
+
+b{
+	
+}
+
+i{
+	
+}
+
+/*Peruvian Weaving video*/
+video{
+	margin: auto;
+	padding: 50px;
+	
+	
+}
