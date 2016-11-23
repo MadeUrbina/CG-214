@@ -1,0 +1,213 @@
+/*My External CSS*/
+
+/*Ao Textiles tittle*/
+h1{
+    color: midnightblue;
+    font-family: courier;
+    background-color: white;
+    margin-left: 30px;
+    padding: 20px;
+    letter-spacing: 35px;
+    font-weight: normal;
+}
+
+body{
+    background-color: white;
+}
+
+/*Header Tab*/
+nav{
+	position: absolute;
+    background-color: white;
+    padding: 0px;
+    margin-left: -40px;   
+	width: 100%;
+}
+
+li{
+    display: inline;
+    margin: auto;
+	
+}
+
+ul{
+   
+}
+
+a{
+	color: midnightblue;
+    font-family: courier;
+    font-size: 14px;
+	padding: 10px; 
+    margin: auto;
+    text-decoration: none;
+    width: 100%;
+    letter-spacing: 3px;
+}
+
+/*Function for button changing color*/
+a:hover{
+    color:lightsteelblue;
+}
+
+div{
+   
+}
+
+#header{
+    position: fixed;
+    background-color: white;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    margin: auto;
+}
+
+img{ 
+
+}
+
+#main{
+    padding: 100px;
+    width: 75%;
+    height: 75%;
+}
+
+/*First paragraph*/
+p{
+    font-family: courier;
+    font-size: 16px;
+	color: midnightblue;
+    position: relative;
+    top: 50px;
+    width: 580px;
+    margin: auto;
+	padding: 5px;
+    z-index: -10;
+	text-align: left;
+    letter-spacing: 0px;
+    line-height: 180%;
+}
+
+/*Sentence below video*/
+#one{
+	font-family: courier;
+    font-size: 16px;
+	color: midnightblue;
+    position: relative;
+    top: 200px;
+    width: 900px;
+    margin: auto;
+	padding: 0px;
+    z-index: -10;
+	text-align: left;
+    letter-spacing: 0px;
+    line-height: 180%;
+ }
+
+/*Big letters subtitle1*/
+#two{
+	font-family: courier;
+    font-size: 50px;
+	color: midnightblue;
+    position: relative;
+    top: 270px;
+    width: 600px;
+	margin: auto;
+	padding: 50px;
+    z-index: -10;
+	text-align: left;
+    letter-spacing: 20px;
+    line-height: 180%;
+ }
+ 
+/*Big letters subtitle2*/
+#three{
+	font-family: courier;
+    font-size: 50px;
+	color: midnightblue;
+    position: relative;
+    top: 130px;
+    width: 600px;
+    margin: auto;
+	padding: 50px;
+    z-index: -10;
+	text-align: left;
+    letter-spacing: 20px;
+    line-height: 180%;
+ }
+
+/*Second paragraph*/
+#four{
+	font-family: courier;
+    font-size: 16px;
+	color: midnightblue;
+    position: relative;
+    top: 140px;
+    width: 580px;
+	margin: auto;
+	padding: 5px;
+    z-index: -10;
+	text-align: left;
+    letter-spacing: 0px;
+    line-height: 180%;
+}
+
+/*Third paragraph - Address*/
+#address{
+    color: midnightblue;
+	position: relative;
+    top: 330px;
+    width: 580px;
+	margin-left: 40px;
+	padding: 5px;
+   
+}
+
+#link1{
+    font-family: courier;
+    font-size: 10px;
+	color: midnightblue;
+	position: relative;
+    top: 430px;
+    width: 580px;
+	margin-left: 45px;
+	padding: 5px;
+	letter-spacing: 2px;
+}
+
+#link2{
+    font-family: courier;
+    font-size: 10px;
+	color: midnightblue;
+	position: relative;
+    top: 425px;
+    width: 580px;
+	margin-left: 45px;
+	padding: 5px;
+	letter-spacing: 2px;
+}
+
+#last{
+	color: white;
+	top: 500px;
+	margin-left: 45px;
+}
+
+b{
+	
+}
+
+i{
+	
+}
+
+/*Ao textiles video*/
+video{
+	position: relative;
+	top: 200px;
+	margin: auto;
+	padding: 0px;
+	
+	
+}
